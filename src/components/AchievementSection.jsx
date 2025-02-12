@@ -11,7 +11,7 @@ const achievements = [
         icon: <Star size={24} className="text-blue-400" />,
     },
     {
-        title: "Open Source Contributor",
+        title: "Open Source Contributor (SWOC25 & IWOC25)",
         desc: "Contributed to multiple open-source projects.",
         date: "Mar 2024",
         position: "left",
