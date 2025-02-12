@@ -19,7 +19,7 @@ export default function Navbar() {
         {/* Logo with Hover Glow */}
         <div className="sm:ml-6 lg:ml-0 md:ml-3">
           <motion.img 
-            src="src/assets/arka3.png" 
+            src="/src/assets/arka3.png" 
             alt="logo" 
             className="h-5 scale-350 brightness-125"
             whileHover={{ scale: 1.1, filter: "drop-shadow(0px 0px 10px #6366f1)" }}
