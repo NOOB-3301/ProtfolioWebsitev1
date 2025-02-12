@@ -6,14 +6,14 @@ const achievements = [
     {
         title: "Project Admin in JWOC25",
         desc: "Got selected as project admin for JWOC25",
-        date: "Nov 2025",
+        date: "Feb 2025",
         position: "right",
         icon: <Star size={24} className="text-blue-400" />,
     },
     {
         title: "Open Source Contributor (SWOC25 & IWOC25)",
         desc: "Contributed to multiple open-source projects.",
-        date: "Mar 2024",
+        date: "Jan 2024",
         position: "left",
         icon: <Medal size={24} className="text-purple-400" />,
     },
