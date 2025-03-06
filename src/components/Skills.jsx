@@ -14,7 +14,6 @@ const skills = {
     { name: "JavaScript", icon: <FaJs className="text-yellow-400" size={30} /> },
     { name: "TypeScript", icon: <SiTypescript className="text-blue-500" size={30} /> },
     { name: "Python", icon: <FaPython className="text-yellow-300" size={30} /> },
-    { name: "Rust", icon: <FaRust className="text-orange-500" size={30} /> },
     { name: "HTML", icon: <FaHtml5 className="text-orange-500" size={30} /> },
     { name: "CSS", icon: <FaCss3 className="text-blue-500" size={30} /> },
   ],
