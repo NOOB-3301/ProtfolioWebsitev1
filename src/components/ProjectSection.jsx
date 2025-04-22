@@ -5,8 +5,8 @@ import GradientBackground from "./COMP/GradBack";
 
 const projects = [
     {
-        name: "PeerLink - P2P file sharing and Video Chat,
-        imageLink: "https://github.com/NOOB-3301/Project_Share_V2/blob/master/public/image/Screenshot%202025-04-22%20191245.png",
+        name: "PeerLink - P2P file sharing and Video Chat",
+        imageLink: "https://raw.githubusercontent.com/NOOB-3301/Project_Share_V2/master/public/image/Screenshot%202025-04-22%20191245.png",
         githubRepo: "https://github.com/NOOB-3301/Project_Share_V2",
         liveLink: "https://project-share-v2.vercel.app/",
     },
