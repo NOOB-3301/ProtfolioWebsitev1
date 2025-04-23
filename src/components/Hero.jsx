@@ -24,7 +24,7 @@ export default function HeroSection() {
               Let's ↗ Connect
             </a>
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1DtVUJ1bXjulHycxXTANYLIiTF17UOlDS/view?usp=sharing"
               className="border-2 border-purple-500 text-purple-400 px-6 py-3 rounded-full 
               hover:bg-purple-500 hover:text-gray-900 transition shadow-lg shadow-purple-500/50"
             >
